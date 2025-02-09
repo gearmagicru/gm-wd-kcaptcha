@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/gearmagicru/gm-wd-kcaptcha/refs/heads/main/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Виджет капчи "KCaptcha"
 
-Виджет для защиты от автоматического спама с помощью KCaptcha.
+Виджет предназначен для защиты от автоматического спама с помощью KCaptcha.
 
 ## Пример применения
 ### с менеджером виджетов:
