@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-wd-kcaptcha",
-    "description": "Captcha widget \"KCaptcha\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "widget",
-        "kcaptcha"
-    ],
+    "description": "Webstie widget \"KCaptcha\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "captcha"],
     "homepage": "https://apps.gearmagic.ru/component/gm-wd-kcaptcha",
     "type": "component",
     "license": "MIT",
